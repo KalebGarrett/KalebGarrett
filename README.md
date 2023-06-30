@@ -1,5 +1,5 @@
 <h2>Hi👋, I'm Kaleb Garrett</h2>
-<h3>I am a FullStack .NET Software Developer</h3>
+<h3>I am a FullStack .NET Software Developer.</h3>
 
 - 😀 Pronouns: He/Him
 - 🌎 I'm based in Orlando, Florida
