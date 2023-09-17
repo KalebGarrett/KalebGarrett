@@ -4,7 +4,7 @@
 - 😀 Pronouns: He/Him
 - 🌎 I'm based in Orlando, Florida
 - 🖥️ Feel free to check out my repositories
-- 📫 How to reach me: linkedin.com/in/kalebgarrett
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/kalebgarrett">linkedin.com/in/kalebgarrett</a>
 
 ---
 
@@ -20,7 +20,8 @@
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&style=flat">
     <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white&style=flat">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&style=flat">
-    <img src="https://img.shields.io/badge/Docker%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&style=flat">
+    <img src="https://img.shields.io/badge/SQL-%23DD0031.svg?&style=for-the-badge&logo=cloud&logoColor=white&style=flat">
+    <img src="https://img.shields.io/badge/Docker%20-%231572B6.svg?&style=for-the-badge&logo=docker&logoColor=white&style=flat">
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&style=flat">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&style=flat">
 </div>
