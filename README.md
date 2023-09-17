@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white&style=flat">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&style=flat">
     <img src="https://img.shields.io/badge/SQL-%23DD0031.svg?&style=for-the-badge&logo=cloud&logoColor=white&style=flat">
+    <img src="https://img.shields.io/badge/Git-F38020?style=for-the-badge&logo=Git&logoColor=white&style=flat">
     <img src="https://img.shields.io/badge/Docker%20-%231572B6.svg?&style=for-the-badge&logo=docker&logoColor=white&style=flat">
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&style=flat">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&style=flat">
