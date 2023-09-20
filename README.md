@@ -30,7 +30,7 @@
 
 <div align="center">
     <h3>Language Stats</h3>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalebGarrett&layout=donut-vertical&theme=radical" alt="Kaleb's Language Stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalebGarrett&layout=donut&theme=radical" alt="Kaleb's Language Stats">
 </div>
 
 <div align="center">
