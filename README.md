@@ -29,7 +29,12 @@
 </div>
 
 <div align="center">
-    <h3>Commit Stats</h3>
+    <h3>Language Stats</h3>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalebGarrett&layout=donut-vertical&theme=radical" alt="Kaleb's Language Stats">
+</div>
+
+<div align="center">
+    <h3>Profile Stats</h3>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=KalebGarrett&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical&show_icons=true" alt="Kaleb's GitHub Stats">
 </div>
 
