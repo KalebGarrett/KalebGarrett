@@ -27,3 +27,15 @@
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&style=flat">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&style=flat">
 </div>
+
+<div align="center">
+    <h3>Commit Stats</h3>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=KalebGarrett&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gruvbox&show_icons=true" alt="Kaleb's GitHub Stats">
+</div>
+
+<div align="center">
+    <h3>Commit Stats</h3>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KalebGarrett&theme=gruvbox" alt="Kaleb's Commit Stats">
+</div>
+
+
