@@ -18,14 +18,16 @@
     <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white&style=flat">
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white&style=flat">
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&style=flat">
-    <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white&style=flat">
+    <br>
+    <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white&style=flat">
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&style=flat">
+    <img src="https://img.shields.io/badge/Digital%20Ocean-%23141321?logo=DigitalOcean">
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&style=flat">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&style=flat">
-    <img src="https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white&style=flate">
-    <img src="https://img.shields.io/badge/SQL-%23DD0031.svg?&style=for-the-badge&logo=cloud&logoColor=white&style=flat">
-    <img src="https://img.shields.io/badge/Git-F38020?style=for-the-badge&logo=Git&logoColor=white&style=flat">
     <img src="https://img.shields.io/badge/Docker%20-%231572B6.svg?&style=for-the-badge&logo=docker&logoColor=white&style=flat">
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&style=flat">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&style=flat">
+    
 </div>
 
 <div align="center">
