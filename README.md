@@ -2,7 +2,7 @@
 <h3>I am a FullStack .NET Software Developer.</h3>
 
 - 😀 Pronouns: He/Him
-- 🌎 I'm based in Orlando, Florida
+- 🌎 I'm based in Lakeland, Florida
 - 🖥️ Feel free to check out my repositories
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/kalebgarrett">linkedin.com/in/kalebgarrett</a>
 
